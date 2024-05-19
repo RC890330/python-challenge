@@ -1,0 +1,9 @@
+# PyBank Task 
+The purpose of this task is to create a Python script to analyze the financial dataset called "budget_data.csv" of the company. The dataset is composed of: "Date" and "Profit/Losses"
+
+The output of the script would summarize:
+* The total number of months that is in the dataset
+* The net total amount of "Profit/Losses" over the entire period
+* The changes in "Profit/Losses" over the entire period, and the average of the changes
+* The greatest increase in profits (date and amount) over the entire period 
+* The greatest decrease in profits (date and amount) over the entire period

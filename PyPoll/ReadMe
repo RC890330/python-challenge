@@ -1,0 +1,14 @@
+# PyPoll Task 
+The purpose of this task is to use python to modernize vote-counting process for a small, rural town.
+
+The output of the script would summarize:
+* The total number of votes cast
+* Complete list of candidates who received votes 
+* The percentage of votes each candidate won
+* The total number of votes each candidate won
+* The winner of the election based on popular vote
+
+# References 
+* On line 38, .get() function is references from https://www.w3schools.com/python/ref_dictionary_get.asp
+
+* On line 46 and 59, .item() function is reference from https://www.w3schools.com/python/ref_dictionary_items.asp
